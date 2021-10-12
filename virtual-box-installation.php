@@ -103,7 +103,7 @@
                                 </div><!--//section-block-->
                                 
                                 <div id="vb_inst_step6"  class="section-block">
-                                    <h3 class="block-title">Step 6: Compleationg of installation</h3>  
+                                    <h3 class="block-title">Step 6: Completion of installation</h3>  
 
                                     <p>Click Install to begin the VirtualBox installation process. 
                                     </p>
