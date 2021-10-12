@@ -67,8 +67,8 @@
                                     </div><!--//content-->
                                 </div>
 
-                                <a href="#" class="btn btn-green mt-5">
-                                    Go to next step >>
+                                <a href="vidoo-interface.php" class="btn btn-green mt-5">
+                                    Go to next step <i class="fas fa-chevron-right"></i>
                                 </a>
                                 
                             </section><!--//doc-section-->

@@ -110,6 +110,7 @@
                                     
                                     <h4> Clips </h4>
                                     <p>This feature contains the recorded clip(s) for each camera. </p>
+                                    <p>When you click favourite button, this history/clips will not delete...</p>
                                     <img src="assets/images/inf-15.jpg" class="img-fluid pb-4" />
 
                                     <p>To select a camera that you would like to display, click the camera selection drop-down button, then click Search after selecting.</p>
@@ -128,6 +129,7 @@
                                     
                                     <h4> History </h4>
                                     <p>This feature shows the past recorded clip(s) retained in the vidoo App.</p>
+                                    <p>When you click favourite button, this history/clips will not delete...</p>
                                     <img src="assets/images/inf-19.jpg" class="img-fluid pb-4" />
 
                                 </div><!--//section-block-->
@@ -148,8 +150,8 @@
 
                                 </div><!--//section-block-->
                                 
-                                <a href="#" class="btn btn-green mt-5">
-                                    Go to next step >>
+                                <a href="contact-us.php" class="btn btn-green mt-5">
+                                    Go to next step <i class="fas fa-chevron-right"></i> 
                                 </a>
                                 
                             </section><!--//doc-section-->

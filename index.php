@@ -43,8 +43,8 @@
                                     <img src="assets/images/down_2.jpg" class="img-fluid" />
                                 </div><!--//section-block-->
 
-                                <a href="#" class="btn btn-green mt-5">
-                                    Go to next step >>
+                                <a href="installation.php" class="btn btn-green mt-5">
+                                    Go to next step <i class="fas fa-chevron-right"></i>
                                 </a>
                                 
                             </section><!--//doc-section-->
