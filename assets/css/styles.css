@@ -932,8 +932,8 @@ select {
   border-color: #1bc781;
 }
 
-.body-green .doc-menu .nav-link.active-static {
-  color: #1bc781;
+a.active-static {
+  color: #1bc781 !important;
   border-color: #1bc781;
 }
 

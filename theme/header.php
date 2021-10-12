@@ -36,13 +36,41 @@
                     </h1>
                     
                 </div><!--//branding-->
+
+                <nav class="navbar navbar-expand-lg mt-4 d-md-none navbar-dark bg-dark" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                    <a class="navbar-brand">Menu</a>
+                    <button class="navbar-toggler" type="button">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarText">
+                        <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">                            
+                            <a class="nav-link <?php echo ($page == "home") ? "active-static" : ""; ?>" href="./">1) Download</a>
+                        </li>
+                        <li class="nav-item active">                            
+                            <a class="nav-link <?php echo ($page == "installation") ? "active-static" : ""; ?>" href="installation.php">2) Installation</a>
+                        </li>
+                        <li class="nav-item active">                            
+                            <a class="nav-link <?php echo ($page == "v-b-installation") ? "active-static" : ""; ?>" href="vertual-box-installation.php">3) Vertual Box Installation</a>
+                        </li>
+                        <li class="nav-item active">                            
+                            <a class="nav-link <?php echo ($page == "vidoo-login") ? "active-static" : ""; ?>" href="vidoo-login.php">4) Vidoo App Login</a>
+                        </li>
+                        <li class="nav-item active">                            
+                            <a class="nav-link <?php echo ($page == "vidoo-interface") ? "active-static" : ""; ?>" href="vidoo-interface.php">5) Vidoo App Interface</a>
+                        </li>
+                        <li class="nav-item active">                            
+                        <a class="nav-link <?php echo ($page == "contact-us") ? "active-static" : ""; ?>" href="contact-us.php">Contact us</a>
+                        </li>
+                    </div>
+               </nav>
                 
                 <!--ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="./">Home</a></li>
                     <li class="breadcrumb-item active"><?php echo $page_title; ?></li>
                 </ol-->
                 
-                <div class="top-search-box mt-4">
+                <!--div class="top-search-box mt-4">
 	                 <form class="form-inline search-form justify-content-center" action="" method="get">
 	            
 			            <input type="text" placeholder="Search..." name="search" class="form-control search-input">
@@ -50,7 +78,7 @@
 			            <button type="submit" class="btn search-btn" value="Search"><i class="fas fa-search"></i></button>
 			            
 			        </form>
-                </div>
+                </div-->
                 
             </div><!--//container-->
         </header><!--//header-->
