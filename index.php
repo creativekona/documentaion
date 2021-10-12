@@ -44,7 +44,7 @@
                                 </div><!--//section-block-->
 
                                 <a href="installation.php" class="btn btn-green mt-5">
-                                    Go to next step <i class="fas fa-chevron-right"></i>
+                                    NEXT STEP <i class="fas fa-chevron-right"></i>
                                 </a>
                                 
                             </section><!--//doc-section-->
