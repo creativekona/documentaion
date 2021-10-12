@@ -151,7 +151,7 @@
                                 </div><!--//section-block-->
                                 
                                 <a href="contact-us.php" class="btn btn-green mt-5">
-                                    NEXT STEP <i class="fas fa-chevron-right"></i> 
+                                    <i class="fas fa-question"></i> Contact us  
                                 </a>
                                 
                             </section><!--//doc-section-->
