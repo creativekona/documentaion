@@ -21,7 +21,9 @@
                                     <a class="scrollto" href="#vidoo-interface2">Live Video</a> | 
                                     <a class="scrollto" href="#vidoo-interface3">Cameras</a> | 
                                     <a class="scrollto" href="#vidoo-interface4">Clips</a> | 
-                                    <a class="scrollto" href="#vidoo-interface5">History</a>
+                                    <a class="scrollto" href="#vidoo-interface5">History</a>| 
+                                    <a class="scrollto" href="#vidoo-interface6">People</a>| 
+                                    <a class="scrollto" href="#vidoo-interface7">Face logs</a>
                                 </p>
                                 <div id="vidoo-interface1"  class="section-block">
                                     
@@ -141,7 +143,7 @@
                                 <div id="vidoo-interface7"  class="section-block">
                                     
                                     <h4> Face logs </h4>
-                                    <p>This option will show people how visited at your home. It will find then from People tab you have added them.</p>
+                                    <p>This option will show people who visited at your home. It will find then from People tab you have added.</p>
                                     <img src="assets/images/inf-21.jpg" class="img-fluid pb-4" />
 
                                 </div><!--//section-block-->
