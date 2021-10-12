@@ -98,7 +98,7 @@
                                 </div><!--//section-block-->
 
                                 <div id="inst_step6"  class="section-block">
-                                    <h3 class="block-title">Step 6: Compleation of installation</h3>                                    
+                                    <h3 class="block-title">Step 6: Completion of installation</h3>                                    
                                     <p>After you have configured the installation settings, or if no changes to the settings have been made, click Next to proceed to the next window. 
                                     </p>
                                     <img src="assets/images/fin_1.jpg" class="img-fluid pb-4" />
