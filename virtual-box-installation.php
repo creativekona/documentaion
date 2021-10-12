@@ -94,7 +94,7 @@
                                 </div><!--//section-block-->
                                 
                                 <div id="vb_inst_step5"  class="section-block">
-                                    <h3 class="block-title">Step 5: Just ingnore this warning</h3>
+                                    <h3 class="block-title">Step 5: Just ignore this warning</h3>
                                     
                                     <p>Click Yes if you agree to the following Warning and to proceed to the next window.
                                     </p>
