@@ -48,8 +48,11 @@
                                             <a class="nav-link scrollto" href="#vidoo-interface3">5.3 Cameras</a>
                                             <a class="nav-link scrollto" href="#vidoo-interface4">5.4 Clips</a>
                                             <a class="nav-link scrollto" href="#vidoo-interface5">5.5 History</a>
+                                            <a class="nav-link scrollto" href="#vidoo-interface6">5.6 People</a>
+                                            <a class="nav-link scrollto" href="#vidoo-interface7">5.7 Face logs</a>
                                         </nav><!--//nav-->
-                                    <?php } ?>
+                                    <?php } ?>                                    
+	                                <a class="nav-link <?php echo ($page == "contact-us") ? "active-static" : ""; ?>" href="contact-us.php">Contact us</a>
 	                            </nav><!--//doc-menu-->
 	                        
                         </div>

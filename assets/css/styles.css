@@ -5,6 +5,7 @@ body {
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #f9f9fb;
 }
 
 html, body {
@@ -1462,4 +1463,25 @@ select {
 
 .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
 	margin-left: 0;
+}
+
+.social-links a{
+  color: #222;
+  font-size: 35px;
+  margin-right: 10px;
+}
+
+
+.contact-us .links{
+  color: #222;
+  font-size: 25px;
+}
+
+.contact-us .links a{
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.contact-us .links a:hover{
+  text-decoration: none;
 }
