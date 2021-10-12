@@ -133,7 +133,7 @@
                                 <div id="vidoo-interface6"  class="section-block">
                                     
                                     <h4> People </h4>
-                                    <p>You can add faces of persons you know. Vidoo will notify you how was there. Face log will be also created.</p>
+                                    <p>You can add faces of persons you know. Vidoo will notify you who was there. Face log will be also created.</p>
                                     <img src="assets/images/inf-20.jpg" class="img-fluid pb-4" />
 
                                 </div><!--//section-block-->
