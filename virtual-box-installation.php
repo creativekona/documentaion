@@ -78,7 +78,7 @@
                                 </div><!--//section-block-->
                                 
                                 <div id="vb_inst_step4"  class="section-block">
-                                    <h3 class="block-title">Step 4: Preaparation and configuraton</h3>
+                                    <h3 class="block-title">Step 4: Preparation and configuration</h3>
                                     
                                     <h5> Step 4.1 </h5>
                                     <p>Similar to Step 9 on the 1 <a href="./installation.php#inst_step2" target="new">Vidoo App installation</a> section, you may also check and configure the following installation settings before starting the installation process. Click Next once done.  
