@@ -1,7 +1,7 @@
          <?php
 
             $page = 'v-b-installation';
-            $page_title = "Vertual box installation";
+            $page_title = "virtual box installation";
 
         ?>
 
@@ -13,7 +13,7 @@
                     <div class="doc-content col-md-9 col-12 order-1">
                         <div class="content-inner">
                             <section id="download-section" class="doc-section">
-                                <h2 class="section-title">Vertual Box Installation</h2>
+                                <h2 class="section-title">virtual Box Installation</h2>
                                 
                                 <div class="callout-block callout-success">
                                     <div class="icon-holder">
@@ -42,7 +42,7 @@
                                 </div><!--//section-block-->
                                     
                                 <div id="vb_inst_step2"  class="section-block">
-                                    <h3 class="block-title">Step 2: Download Vertual Box</h3>
+                                    <h3 class="block-title">Step 2: Download virtual Box</h3>
 
                                     <h5> Step 2.1 </h5>
                                     <p>In case the dependencies are not installed, vidoo App will require you to download and install the Oracle VM VirtualBox application to run the vidoo App software on your Windows machine. Click the Download button to download the VirtualBox application. 
@@ -62,7 +62,7 @@
                                 </div><!--//section-block-->
                                 
                                 <div id="vb_inst_step3"  class="section-block">
-                                    <h3 class="block-title">Step 3: Begin vertual box installation</h3>
+                                    <h3 class="block-title">Step 3: Begin virtual box installation</h3>
 
                                     <h5> Step 3.1 </h5>
                                     <p>When the following pop-up window appears, click Save to download the VirtualBox installation file. </p> 

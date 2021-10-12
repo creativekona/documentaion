@@ -51,7 +51,7 @@
                             <a class="nav-link <?php echo ($page == "installation") ? "active-static" : ""; ?>" href="installation.php">2) Installation</a>
                         </li>
                         <li class="nav-item active">                            
-                            <a class="nav-link <?php echo ($page == "v-b-installation") ? "active-static" : ""; ?>" href="vertual-box-installation.php">3) Vertual Box Installation</a>
+                            <a class="nav-link <?php echo ($page == "v-b-installation") ? "active-static" : ""; ?>" href="virtual-box-installation.php">3) virtual Box Installation</a>
                         </li>
                         <li class="nav-item active">                            
                             <a class="nav-link <?php echo ($page == "vidoo-login") ? "active-static" : ""; ?>" href="vidoo-login.php">4) Vidoo App Login</a>

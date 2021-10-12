@@ -107,7 +107,7 @@
                                     </p>
                                     <img src="assets/images/fin_2.jpg" class="img-fluid pb-4" />
 
-                                    <p>Wait until the installation process is complete and finish on compleate  
+                                    <p>Wait until the installation process is complete and finish on complete  
                                     </p>
                                     <img src="assets/images/fin_3.jpg" class="img-fluid pb-4" />
 

@@ -22,12 +22,12 @@
                                             <a class="nav-link scrollto" href="#inst_step6">2.6 Finish installation</a>
                                         </nav><!--//nav-->
                                     <?php } ?>
-	                                <a class="nav-link <?php echo ($page == "v-b-installation") ? "active-static" : ""; ?>" href="vertual-box-installation.php">3) Vertual Box Installation</a>
+	                                <a class="nav-link <?php echo ($page == "v-b-installation") ? "active-static" : ""; ?>" href="virtual-box-installation.php">3) virtual Box Installation</a>
                                     <?php if($page == "v-b-installation"){ ?>
                                         <nav class="doc-sub-menu nav flex-column">
                                             <a class="nav-link scrollto" href="#vb_inst_step1">3.1 Run Vidoo App</a>
-                                            <a class="nav-link scrollto" href="#vb_inst_step2">3.2 Download Vertual Box</a>
-                                            <a class="nav-link scrollto" href="#vb_inst_step3">3.3 Install Vertual Box</a>
+                                            <a class="nav-link scrollto" href="#vb_inst_step2">3.2 Download virtual Box</a>
+                                            <a class="nav-link scrollto" href="#vb_inst_step3">3.3 Install virtual Box</a>
                                             <a class="nav-link scrollto" href="#vb_inst_step4">3.4 Prepare</a>
                                             <a class="nav-link scrollto" href="#vb_inst_step5">3.5 Warning</a>
                                             <a class="nav-link scrollto" href="#vb_inst_step6">3.6 Finish installation</a>
