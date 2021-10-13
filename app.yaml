@@ -5,3 +5,75 @@ runtime: php74
 # run a long-running PHP script as a worker process (e.g. "php worker.php").
 #
 # entrypoint: serve index.php
+
+handlers:
+
+#below is for landing page urls
+- url: /(.*\.(ico|jpg|jpeg|png|gif|woff|woff2|ttf|otf|eot|svg|js|css))$
+  static_files: \1
+  upload: .*\.(ico|jpg|jpeg|png|gif|woff|woff2|ttf|otf|eot|svg|js|css)$
+  secure: always
+
+#below is for /routes urls that find font files in react dinamic routes 
+- url: /(.*)/(.*\.(ico|jpg|jpeg|png|gif|woff|woff2|ttf|otf|eot|svg|js|css))$
+  static_files: \1
+  upload: (.*)/.*\.(ico|jpg|jpeg|png|gif|woff|woff2|ttf|otf|eot|svg|js|css)$
+  secure: always
+
+- url: /apple-app-site-association
+  static_files: apple-app-site-association
+  mime_type: application/json
+  upload: apple-app-site-association
+  secure: always
+
+#as below each folders and subfolders must be added as static
+#if folder structure change, that folders must be added as below format
+- url: /assets
+  static_dir: assets
+  secure: always
+
+- url: /assets/fonts
+  static_dir: assets/fonts
+  secure: always
+
+- url: /assets/images
+  static_dir: assets/images
+  secure: always
+
+- url: /assets/css
+  static_dir: assets/css
+  secure: always
+
+- url: /assets/fontawesome/js
+  static_dir: assets/fontawesome/js
+  secure: always
+
+- url: /assets/fontawesome/css
+  static_dir: assets/fontawesome/css
+  secure: always
+
+- url: /assets/js
+  static_dir: assets/js
+  secure: always
+
+- url: /assets/plugins
+  static_dir: assets/plugins
+  secure: always
+
+- url: /assets/plugins/bootstrap/css
+  static_dir: assets/plugins/bootstrap/css
+  secure: always
+
+- url: /assets/plugins/bootstrap/js
+  static_dir: assets/plugins/bootstrap/js
+  secure: always
+
+- url: /assets/plugins/jquery-scrollTo
+  static_dir: assets/plugins/jquery-scrollTo
+  secure: always
+
+- url: /assets/plugins/stickyfill/dist
+  static_dir: assets/plugins/stickyfill/dist
+  secure: always
+
+
