@@ -24,7 +24,9 @@ handlers:
 
 #all requests goto index html for react routes 
 - url: /
-  script: index.php
+  static_files: index.php
+  upload: index.php
+  secure: always
   
 - url: /wiki
   script: wiki/index.php
