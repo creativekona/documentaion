@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Ezlo Sans";
-  src: url("assets/fonts/EzloSans-Regular.woff") format("woff");
+  src: url(/assets/fonts/EzloSans-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;

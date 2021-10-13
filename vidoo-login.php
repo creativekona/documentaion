@@ -21,17 +21,17 @@
                                     <h5> Step 1.1 </h5>
                                     <p>Right-click the vidoo App desktop shortcut icon, then click Run as administrator. 
                                     </p>
-                                    <img src="assets/images/vb-1.jpg" class="img-fluid pb-4" />
+                                    <img src=/assets/images/vb-1.jpg" class="img-fluid pb-4" />
 
                                     <h5> Step 1.2 </h5>
                                     <p>The vidoo App will always check for the dependency packages when running the application. 
                                     </p>
-                                    <img src="assets/images/vb-2.jpg" class="img-fluid pb-4" />
+                                    <img src=/assets/images/vb-2.jpg" class="img-fluid pb-4" />
 
                                     <h5> Step 1.3 </h5>
                                     <p>The vidoo App will always check for the dependency packages when running the application. 
                                     </p>
-                                    <img src="assets/images/vl-1.jpg" class="img-fluid" />
+                                    <img src=/assets/images/vl-1.jpg" class="img-fluid" />
 
                                 </div><!--//section-block-->
                                 
@@ -40,19 +40,19 @@
                                     
                                     <h5> Step 2.1 </h5>
                                     <p>Fill in the following fields, then click Sign up to proceed.</p>
-                                    <img src="assets/images/vl-2.jpg" class="img-fluid pb-4" />
+                                    <img src=/assets/images/vl-2.jpg" class="img-fluid pb-4" />
 
                                     <h5> Step 2.2 </h5>
                                     <p>Click Confirm to continue, then check for the email validation sent to your registered email address. </p>
-                                    <img src="assets/images/vl-3.jpg" class="img-fluid pb-4" />
+                                    <img src=/assets/images/vl-3.jpg" class="img-fluid pb-4" />
 
                                     <h5> Step 2.3 </h5>
                                     <p>After receiving the following notification, click on the Click here to validate link to finish setting up your vidoo account. </p>
-                                    <img src="assets/images/vl-4.jpg" class="img-fluid pb-4" />
+                                    <img src=/assets/images/vl-4.jpg" class="img-fluid pb-4" />
 
                                     <h5> Step 2.4 </h5>
                                     <p>Sign in to vidoo App using your verified account. </p>
-                                    <img src="assets/images/vl-1.jpg" class="img-fluid" />
+                                    <img src=/assets/images/vl-1.jpg" class="img-fluid" />
 
                                 </div><!--//section-block-->
                                 
