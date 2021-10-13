@@ -75,5 +75,7 @@ handlers:
 - url: /assets/plugins/stickyfill/dist
   static_dir: assets/plugins/stickyfill/dist
   secure: always
-
-
+  
+# Serve your app through a front controller at index.php or public/index.php.
+- url: .*
+  script: auto
