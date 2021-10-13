@@ -123,7 +123,7 @@
 
                                 </div><!--//section-block-->
 
-                                <a href="wiki/vidoo-login" class="btn btn-green mt-5">
+                                <a href="/wiki/vidoo-login" class="btn btn-green mt-5">
                                     NEXT STEP <i class="fas fa-chevron-right"></i>
                                 </a>
                                 
