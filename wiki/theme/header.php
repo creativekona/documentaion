@@ -48,19 +48,19 @@
                             <a class="nav-link <?php echo ($page == "home") ? "active-static" : ""; ?>" href="./">1) Download</a>
                         </li>
                         <li class="nav-item active">                            
-                            <a class="nav-link <?php echo ($page == "installation") ? "active-static" : ""; ?>" href="installation.php">2) Installation</a>
+                            <a class="nav-link <?php echo ($page == "installation") ? "active-static" : ""; ?>" href="installation">2) Installation</a>
                         </li>
                         <li class="nav-item active">                            
-                            <a class="nav-link <?php echo ($page == "v-b-installation") ? "active-static" : ""; ?>" href="virtual-box-installation.php">3) virtual Box Installation</a>
+                            <a class="nav-link <?php echo ($page == "v-b-installation") ? "active-static" : ""; ?>" href="virtual-box-installation">3) virtual Box Installation</a>
                         </li>
                         <li class="nav-item active">                            
-                            <a class="nav-link <?php echo ($page == "vidoo-login") ? "active-static" : ""; ?>" href="vidoo-login.php">4) Vidoo App Login</a>
+                            <a class="nav-link <?php echo ($page == "vidoo-login") ? "active-static" : ""; ?>" href="vidoo-login">4) Vidoo App Login</a>
                         </li>
                         <li class="nav-item active">                            
-                            <a class="nav-link <?php echo ($page == "vidoo-interface") ? "active-static" : ""; ?>" href="vidoo-interface.php">5) Vidoo App Interface</a>
+                            <a class="nav-link <?php echo ($page == "vidoo-interface") ? "active-static" : ""; ?>" href="vidoo-interface">5) Vidoo App Interface</a>
                         </li>
                         <li class="nav-item active">                            
-                        <a class="nav-link <?php echo ($page == "contact-us") ? "active-static" : ""; ?>" href="contact-us.php">Contact us</a>
+                        <a class="nav-link <?php echo ($page == "contact-us") ? "active-static" : ""; ?>" href="contact-us">Contact us</a>
                         </li>
                     </div>
                </nav>

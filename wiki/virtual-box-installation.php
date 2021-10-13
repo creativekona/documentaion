@@ -81,7 +81,7 @@
                                     <h3 class="block-title">Step 4: Preparation and configuration</h3>
                                     
                                     <h5> Step 4.1 </h5>
-                                    <p>Similar to Step 9 on the 1 <a href="./installation.php#inst_step2" target="new">Vidoo App installation</a> section, you may also check and configure the following installation settings before starting the installation process. Click Next once done.  
+                                    <p>Similar to Step 9 on the 1 <a href="./installation#inst_step2" target="new">Vidoo App installation</a> section, you may also check and configure the following installation settings before starting the installation process. Click Next once done.  
                                     </p>
                                     <img src="assets/images/vb-8.jpg" class="img-fluid pb-4" />
 
@@ -123,7 +123,7 @@
 
                                 </div><!--//section-block-->
 
-                                <a href="vidoo-login.php" class="btn btn-green mt-5">
+                                <a href="vidoo-login" class="btn btn-green mt-5">
                                     NEXT STEP <i class="fas fa-chevron-right"></i>
                                 </a>
                                 

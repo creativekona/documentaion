@@ -1,0 +1,88 @@
+@font-face {
+  font-family: "Ezlo Sans";
+  src: url("assets/fonts/EzloSans-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: "Ezlo Sans";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+}
+.text-right {
+  text-align: right;
+}
+.banner {
+  background: url(assets/images/bg.jpg) no-repeat center;
+  background-size: cover;
+  color: white;
+}
+
+.bannerDiv {
+  display: flex;
+  justify-content: space-between;
+  padding: 3vw 0 0 8vw;
+}
+.bannerText {
+  padding: 0px 0px 50px 0px;
+}
+.banner h3 {
+  font-size: 2.5vw;
+  margin: 0px;
+}
+.banner h1 {
+  font-size: 5vw;
+  margin: 3vw 0;
+  font-weight: 900;
+  letter-spacing: 5px;
+}
+.banner p {
+  font-size: 1.3vw;
+  opacity: 0.9;
+}
+.new-column div {
+  margin-right: 30px;
+}
+.new-column {
+  display: flex;
+}
+.new-column img {
+  cursor: pointer;
+}
+.bloc2Image {
+  margin-top: 0;
+  border-radius: 120px 0px 0px 0px;
+}
+.banner2 {
+  background: url(assets/images/block_2@2x.png) no-repeat center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.new-colum button {
+  background-color: "#1C1E21" !important;
+  border-radius: "5px" !important;
+}
+
+@media screen and (max-width: 1200px) {
+  .banner h1 {
+    letter-spacing: 4px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .banner h1 {
+    letter-spacing: 3px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .banner h1 {
+    letter-spacing: 2px;
+  }
+}
