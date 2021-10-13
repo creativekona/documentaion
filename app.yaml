@@ -19,13 +19,7 @@ handlers:
   static_files: \1
   upload: (.*)/.*\.(ico|jpg|jpeg|png|gif|woff|woff2|ttf|otf|eot|svg|js|css)$
   secure: always
-
-- url: /apple-app-site-association
-  static_files: apple-app-site-association
-  mime_type: application/json
-  upload: apple-app-site-association
-  secure: always
-
+  
 #as below each folders and subfolders must be added as static
 #if folder structure change, that folders must be added as below format
 - url: /assets
