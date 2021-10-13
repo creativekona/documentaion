@@ -32,7 +32,7 @@
                                     <p>When the following web page appears, click the download button for Windows.
                                     </p>
                                     
-                                    <img src=/assets/images/down_1.jpg" class="img-fluid" />
+                                    <img src="/assets/images/down_1.jpg" class="img-fluid" />
                                 </div><!--//section-block-->
                                 
                                 <div id="down_step3"  class="section-block">
@@ -40,7 +40,7 @@
                                     <p>Download the Vidoo App installation file. The installation file may be downloaded automatically without hitting Save as, depending on your web browser’s settings. 
                                     </p>
                                     
-                                    <img src=/assets/images/down_2.jpg" class="img-fluid" />
+                                    <img src="/assets/images/down_2.jpg" class="img-fluid" />
                                 </div><!--//section-block-->
 
                                 <a href="wiki/installation" class="btn btn-green mt-5">

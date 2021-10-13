@@ -32,12 +32,12 @@
                                     <h5> Step 1.1 </h5>
                                     <p>Right-click the vidoo App desktop shortcut icon, then click Run as administrator.
                                     </p>                                    
-                                    <img src=/assets/images/vb-1.jpg" class="img-fluid pb-4" />
+                                    <img src="/assets/images/vb-1.jpg" class="img-fluid pb-4" />
                                     
                                     <h5> Step 1.2 </h5>
                                     <p>As the vidoo App contains software packages in Linux, dependency packages must be installed on your Windows machine in order for the App to function properly. Upon opening the application, the vidoo App will automatically detect if the dependencies are installed on your machine.
                                     </p>                                    
-                                    <img src=/assets/images/vb-2.jpg" class="img-fluid pb-4" />
+                                    <img src="/assets/images/vb-2.jpg" class="img-fluid pb-4" />
                                     
                                 </div><!--//section-block-->
                                     
@@ -47,17 +47,17 @@
                                     <h5> Step 2.1 </h5>
                                     <p>In case the dependencies are not installed, vidoo App will require you to download and install the Oracle VM VirtualBox application to run the vidoo App software on your Windows machine. Click the Download button to download the VirtualBox application. 
                                     </p>                                    
-                                    <img src=/assets/images/vb-3.jpg" class="img-fluid pb-4" />
+                                    <img src="/assets/images/vb-3.jpg" class="img-fluid pb-4" />
                                     
                                     <h5> Step 2.2 </h5>
                                     <p>Clicking the learn more > > > link will redirect you to the VirtualBox.org web page.
                                     </p>                                    
-                                    <img src=/assets/images/vb-4.jpg" class="img-fluid pb-4" />
+                                    <img src="/assets/images/vb-4.jpg" class="img-fluid pb-4" />
                                     
                                     <h5> Step 2.3 </h5>
                                     <p>When the following pop-up window appears, click Save to download the VirtualBox installation file.
                                     </p>                                    
-                                    <img src=/assets/images/vb-5.jpg" class="img-fluid pb-4" />
+                                    <img src="/assets/images/vb-5.jpg" class="img-fluid pb-4" />
                                     
                                 </div><!--//section-block-->
                                 
@@ -68,12 +68,12 @@
                                     <p>When the following pop-up window appears, click Save to download the VirtualBox installation file. </p> 
                                     <p> Right-click the installation file, then click Run as administrator. 
                                     </p>
-                                    <img src=/assets/images/vb-6.jpg" class="img-fluid pb-4" />
+                                    <img src="/assets/images/vb-6.jpg" class="img-fluid pb-4" />
 
                                     <h5> Step 3.2 </h5>
                                     <p>Click Next to proceed with the installation. Otherwise, click Cancel.
                                     </p>
-                                    <img src=/assets/images/vb-7.jpg" class="img-fluid pb-4" />
+                                    <img src="/assets/images/vb-7.jpg" class="img-fluid pb-4" />
 
                                 </div><!--//section-block-->
                                 
@@ -83,12 +83,12 @@
                                     <h5> Step 4.1 </h5>
                                     <p>Similar to Step 9 on the 1 <a href="./installation#inst_step2" target="new">Vidoo App installation</a> section, you may also check and configure the following installation settings before starting the installation process. Click Next once done.  
                                     </p>
-                                    <img src=/assets/images/vb-8.jpg" class="img-fluid pb-4" />
+                                    <img src="/assets/images/vb-8.jpg" class="img-fluid pb-4" />
 
                                     <h5> Step 4.2 </h5>
                                     <p>Check or uncheck on the following options which you would like to enable or disable. Click Next to continue.
                                     </p>
-                                    <img src=/assets/images/vb-9.jpg" class="img-fluid" />
+                                    <img src="/assets/images/vb-9.jpg" class="img-fluid" />
 
 
                                 </div><!--//section-block-->
@@ -98,7 +98,7 @@
                                     
                                     <p>Click Yes if you agree to the following Warning and to proceed to the next window.
                                     </p>
-                                    <img src=/assets/images/vb-10.jpg" class="img-fluid" />
+                                    <img src="/assets/images/vb-10.jpg" class="img-fluid" />
 
                                 </div><!--//section-block-->
                                 
@@ -107,19 +107,19 @@
 
                                     <p>Click Install to begin the VirtualBox installation process. 
                                     </p>
-                                    <img src=/assets/images/vb-11.jpg" class="img-fluid pb-4" />
+                                    <img src="/assets/images/vb-11.jpg" class="img-fluid pb-4" />
 
                                     <p>Wait until the installation process is complete.
                                     </p>
-                                    <img src=/assets/images/vb-12.jpg" class="img-fluid pb-4" />
+                                    <img src="/assets/images/vb-12.jpg" class="img-fluid pb-4" />
 
                                     <p>Once the installation process is complete, click Finish to close the Setup Wizard. If the following option remained checked, the VirtualBox application will automatically open once you exit the Setup Wizard. Uncheck this option if you would like to manually open the VirtualBox application later on. 
                                     </p>
-                                    <img src=/assets/images/vb-13.jpg" class="img-fluid pb-4" />
+                                    <img src="/assets/images/vb-13.jpg" class="img-fluid pb-4" />
 
                                     <p>A VirtualBox desktop shortcut icon will be created after a successful installation. 
                                     </p>
-                                    <img src=/assets/images/vb-14.jpg" class="img-fluid" />
+                                    <img src="/assets/images/vb-14.jpg" class="img-fluid" />
 
                                 </div><!--//section-block-->
 
