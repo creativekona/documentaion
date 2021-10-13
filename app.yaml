@@ -26,13 +26,15 @@ handlers:
   upload: index.php
   secure: always
   
-  url: /wiki/
+- url: /wiki
   static_files: wiki/index.php
-  upload: wiki/index.php
+  upload: wiki/index.php  
   secure: always
   
-- url: /wiki/installation
-  script: wiki/installation.php
+- url: /wiki/installation/
+  static_files: wiki/installation.php
+  upload: wiki/installation.php
+  secure: always
   
 - url: /wiki/virtual-box-installation
   script: wiki/virtual-box-installation.php
