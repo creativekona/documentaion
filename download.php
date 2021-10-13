@@ -43,7 +43,7 @@
                                     <img src="assets/images/down_2.jpg" class="img-fluid" />
                                 </div><!--//section-block-->
 
-                                <a href="installation" class="btn btn-green mt-5">
+                                <a href="wiki/installation" class="btn btn-green mt-5">
                                     NEXT STEP <i class="fas fa-chevron-right"></i>
                                 </a>
                                 

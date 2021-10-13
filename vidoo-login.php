@@ -67,7 +67,7 @@
                                     </div><!--//content-->
                                 </div>
 
-                                <a href="vidoo-interface" class="btn btn-green mt-5">
+                                <a href="wiki/vidoo-interface" class="btn btn-green mt-5">
                                     NEXT STEP <i class="fas fa-chevron-right"></i>
                                 </a>
                                 

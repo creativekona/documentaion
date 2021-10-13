@@ -30,7 +30,7 @@
             <div class="container-fluid">
                 <div class="branding">
                     <h1 class="logo">
-                        <a href="./">
+                        <a href="wiki">
                             <img src="assets/images/logo.jpg">
                         </a>
                     </h1>
@@ -45,19 +45,19 @@
                     <div class="collapse navbar-collapse" id="navbarText">
                         <ul class="navbar-nav mr-auto">
                         <li class="nav-item active">                            
-                            <a class="nav-link <?php echo ($page == "home") ? "active-static" : ""; ?>" href="./">1) Download</a>
+                            <a class="nav-link <?php echo ($page == "home") ? "active-static" : ""; ?>" href="wiki">1) Download</a>
                         </li>
                         <li class="nav-item active">                            
-                            <a class="nav-link <?php echo ($page == "installation") ? "active-static" : ""; ?>" href="installation">2) Installation</a>
+                            <a class="nav-link <?php echo ($page == "installation") ? "active-static" : ""; ?>" href="wiki/installation">2) Installation</a>
                         </li>
                         <li class="nav-item active">                            
-                            <a class="nav-link <?php echo ($page == "v-b-installation") ? "active-static" : ""; ?>" href="virtual-box-installation">3) virtual Box Installation</a>
+                            <a class="nav-link <?php echo ($page == "v-b-installation") ? "active-static" : ""; ?>" href="wiki/virtual-box-installation">3) virtual Box Installation</a>
                         </li>
                         <li class="nav-item active">                            
-                            <a class="nav-link <?php echo ($page == "vidoo-login") ? "active-static" : ""; ?>" href="vidoo-login">4) Vidoo App Login</a>
+                            <a class="nav-link <?php echo ($page == "vidoo-login") ? "active-static" : ""; ?>" href="wiki/vidoo-login">4) Vidoo App Login</a>
                         </li>
                         <li class="nav-item active">                            
-                            <a class="nav-link <?php echo ($page == "vidoo-interface") ? "active-static" : ""; ?>" href="vidoo-interface">5) Vidoo App Interface</a>
+                            <a class="nav-link <?php echo ($page == "vidoo-interface") ? "active-static" : ""; ?>" href="wiki/vidoo-interface">5) Vidoo App Interface</a>
                         </li>
                         <li class="nav-item active">                            
                         <a class="nav-link <?php echo ($page == "contact-us") ? "active-static" : ""; ?>" href="contact-us">Contact us</a>
@@ -66,7 +66,7 @@
                </nav>
                 
                 <!--ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="./">Home</a></li>
+                    <li class="breadcrumb-item"><a href="wiki">Home</a></li>
                     <li class="breadcrumb-item active"><?php echo $page_title; ?></li>
                 </ol-->
                 
