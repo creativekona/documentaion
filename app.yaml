@@ -26,8 +26,10 @@ handlers:
   upload: index.php
   secure: always
   
-- url: /wiki
-  script: wiki/index.php
+  url: /wiki/
+  static_files: wiki/index.php
+  upload: wiki/index.php
+  secure: always
   
 - url: /wiki/installation
   script: wiki/installation.php
